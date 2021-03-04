@@ -63,7 +63,7 @@ h2 {
     top: 0;
 }
 
-/* 
+/*
   Enables <iframe> support work on itch.io when using mobile iOS
 */
 .outerContainer {
@@ -113,7 +113,7 @@ p {
 
 a {
     font-weight: 700;
-    color: #b97c2c;
+    color: #228b22 ;
     font-family: sans-serif;
     transition: color 0.6s;
     text-decoration: none;
@@ -157,7 +157,7 @@ img {
     line-height: 1.7em;
 }
 
-/* 
+/*
   Class applied to first choice
 */
 :not(.choice)+.choice {
@@ -171,7 +171,7 @@ img {
     font-size: 15pt;
 }
 
-/* 
+/*
   Built-in class:
     The End # CLASS: end
 */
@@ -214,7 +214,7 @@ img {
     }
 }
 
-/* 
+/*
   Dark Theme (Added in Inky 0.10.0)
     # theme: dark
 */
@@ -237,7 +237,7 @@ body.dark {
 }
 
 .dark a {
-    color: #cc8f1a;
+    color: #228b22;
     transition: color 0.6s;
 }
 
